@@ -1,6 +1,4 @@
-<a href="https://yunatseng.com" target="_blank">
-  <img src="personal_banner.png" alt="Yuna Tseng's Professional Banner" width="100%">
-</a>
+[![Yuna Tseng's Professional Banner](personal_banner.png)](https://yunatseng.com)
 
 <h1 align="center">Hi 👋, I'm Yuna Tseng</h1>
 <h3 align="center">A passionate Data Scientist / Machine Learning Engineer based in Canada</h3>
