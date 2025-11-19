@@ -1,10 +1,14 @@
+[![Yuna Tseng's Professional Banner](linkedIn_banner.png)](https://www.linkedin.com/in/yu-ping-tseng)
+
 <h1 align="center">Hi 👋, I'm Yuna Tseng</h1>
 <h3 align="center">A passionate Data Scientist / Machine Learning Engineer based in Canada</h3>
 <img align="right" alt="Coding" width="400" src="girl_coding.gif">
 
-- 🔭 I’m currently working on **developing AI solutions and contributing to coding community**
+- 🔭 I’m currently working on **developing AI solutions**
 
 - 🌱 I’m currently learning **AI Engineering**
+
+- 👯 I’m looking to collaborate on **contributing to coding community**
 
 - 💬 Ask me about **data science, machine learning, or career transitions**
 
