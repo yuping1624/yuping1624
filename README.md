@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **yuna.tseng.ca@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yu-ping-tseng/](https://www.linkedin.com/in/yu-ping-tseng/)
+- 📄 Know about my experiences [yunatseng.com](https://yunatseng.com)
 
 - ⚡ Fun fact **I used to optimize chemical reactors; now I optimize ML models and pipelines 🚀**
 
