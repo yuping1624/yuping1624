@@ -1,4 +1,4 @@
-[![Yuna Tseng's Professional Banner](linkedIn_banner.png)](https://www.linkedin.com/in/yu-ping-tseng)
+[![Yuna Tseng's Professional Banner](personal_banner.png)](yunatseng.com)
 
 <h1 align="center">Hi 👋, I'm Yuna Tseng</h1>
 <h3 align="center">A passionate Data Scientist / Machine Learning Engineer based in Canada</h3>
