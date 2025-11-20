@@ -1,6 +1,6 @@
 [![Yuna Tseng's Professional Banner](personal_banner.png)](https://yunatseng.com)
 
-<h1 align="center">Hi 👋, I'm Yuna Tseng</h1>
+<h1 align="center">Hi 👋, I'm Yuna</h1>
 <h3 align="center">A passionate Data Scientist / Machine Learning Engineer based in Canada</h3>
 <img align="right" alt="Coding" width="400" src="girl_coding.gif">
 
